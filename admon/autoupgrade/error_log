@@ -1,0 +1,1 @@
+[20-Jul-2014 19:07:31 America/Denver] PHP Warning:  json_encode() [<a href='function.json-encode'>function.json-encode</a>]: Invalid UTF-8 sequence in argument in /home/autoclas/public_html/modules/autoupgrade/classes/Tools14.php on line 1925
